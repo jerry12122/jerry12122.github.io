@@ -4,4 +4,4 @@ https://jerry12122.github.io/about/index.html
 https://jerry12122.github.io/dockerwebterminal/
 https://jerry12122.github.io/
 https://jerry12122.github.io/tags/docker/
-https://jerry12122.github.io/tags/SRE/
+https://jerry12122.github.io/tags/SRE-DevOps/
