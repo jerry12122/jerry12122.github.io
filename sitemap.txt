@@ -7,4 +7,4 @@ https://jerry12122.github.io/dockerwebterminal/
 https://jerry12122.github.io/
 https://jerry12122.github.io/tags/docker/
 https://jerry12122.github.io/tags/SRE-DevOps/
-https://jerry12122.github.io/tags/script-ssr-v2ray-bbr/
+https://jerry12122.github.io/tags/script-ssr-v2ray-bbr-Trojan-ShadowsocksR-vpn/
