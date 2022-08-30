@@ -1,3 +1,4 @@
+https://jerry12122.github.io/installscript/
 https://jerry12122.github.io/frpDockerfile/
 https://jerry12122.github.io/dockercommand/
 https://jerry12122.github.io/sreintro/
@@ -6,3 +7,4 @@ https://jerry12122.github.io/dockerwebterminal/
 https://jerry12122.github.io/
 https://jerry12122.github.io/tags/docker/
 https://jerry12122.github.io/tags/SRE-DevOps/
+https://jerry12122.github.io/tags/script-ssr-v2ray-bbr/
