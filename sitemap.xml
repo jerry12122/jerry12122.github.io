@@ -2,16 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jerry12122.github.io/dockercommand/</loc>
-    
-    <lastmod>2022-08-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/frpDockerfile/</loc>
+    <loc>https://jerry12122.github.io/sreintro/</loc>
     
     <lastmod>2022-08-30</lastmod>
     
@@ -29,18 +20,9 @@
   </url>
   
   <url>
-    <loc>https://jerry12122.github.io/sreintro/</loc>
+    <loc>https://jerry12122.github.io/frpDockerfile/</loc>
     
-    <lastmod>2022-08-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/about/index.html</loc>
-    
-    <lastmod>2022-08-25</lastmod>
+    <lastmod>2022-08-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -48,6 +30,24 @@
   
   <url>
     <loc>https://jerry12122.github.io/dockerwebterminal/</loc>
+    
+    <lastmod>2022-08-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/dockercommand/</loc>
+    
+    <lastmod>2022-08-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/about/index.html</loc>
     
     <lastmod>2022-08-25</lastmod>
     
@@ -65,28 +65,21 @@
 
   
   <url>
-    <loc>https://jerry12122.github.io/tags/docker/</loc>
-    <lastmod>2022-08-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/tags/SRE-DevOps/</loc>
-    <lastmod>2022-08-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/tags/script-ssr-v2ray-bbr-Trojan-ShadowsocksR-vpn/</loc>
-    <lastmod>2022-08-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://jerry12122.github.io/tags/Docker/</loc>
+    <lastmod>2022-08-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/tags/VPN/</loc>
+    <lastmod>2022-08-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/tags/DevOps/</loc>
     <lastmod>2022-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
