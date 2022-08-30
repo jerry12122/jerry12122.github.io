@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jerry12122.github.io/dockercommand/</loc>
+    <loc>https://jerry12122.github.io/frpDockerfile/</loc>
     
     <lastmod>2022-08-30</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>https://jerry12122.github.io/frpDockerfile/</loc>
+    <loc>https://jerry12122.github.io/dockercommand/</loc>
     
-    <lastmod>2022-08-26</lastmod>
+    <lastmod>2022-08-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
