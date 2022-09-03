@@ -1,0 +1,11 @@
+--2022-09-03 09:59:30--  https://img.noob.tw/2018/12/docker.jpg
+Resolving img.noob.tw (img.noob.tw)... 104.21.7.23, 172.67.135.165, 2606:4700:3037::6815:717, ...
+Connecting to img.noob.tw (img.noob.tw)|104.21.7.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘docker.jpg’
+
+     0K .......... .......... .......... ......                39.0M=0.001s
+
+2022-09-03 09:59:30 (39.0 MB/s) - ‘docker.jpg’ saved [36968]
+
