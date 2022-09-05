@@ -1,4 +1,4 @@
-https://jerry12122.github.io/ddns-go/
+https://jerry12122.github.io/Yellow/ddns-go/
 https://jerry12122.github.io/Dockerfile/mmonit/
 https://jerry12122.github.io/Tutorial/dockercommand/
 https://jerry12122.github.io/Tutorial/installscript/
