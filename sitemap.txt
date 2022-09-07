@@ -1,9 +1,9 @@
-https://jerry12122.github.io/Tutorial/monit/
+https://jerry12122.github.io/Deploy/monit/
+https://jerry12122.github.io/Deploy/mmonit/
+https://jerry12122.github.io/Deploy/frpDockerfile/
+https://jerry12122.github.io/Deploy/dockerwebterminal/
+https://jerry12122.github.io/Deploy/ddns-go/
 https://jerry12122.github.io/Tutorial/dockercommand/
-https://jerry12122.github.io/Docker/ddns-go/
-https://jerry12122.github.io/Docker/dockerwebterminal/
-https://jerry12122.github.io/Docker/mmonit/
-https://jerry12122.github.io/Docker/frpDockerfile/
 https://jerry12122.github.io/Tutorial/installscript/
 https://jerry12122.github.io/Introduction/sreintro/
 https://jerry12122.github.io/about/index.html
@@ -14,3 +14,4 @@ https://jerry12122.github.io/tags/DevOps/
 https://jerry12122.github.io/tags/Linux/
 https://jerry12122.github.io/categories/Introduction/
 https://jerry12122.github.io/categories/Tutorial/
+https://jerry12122.github.io/categories/Deploy/
