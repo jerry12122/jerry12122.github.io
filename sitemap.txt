@@ -1,10 +1,11 @@
+https://jerry12122.github.io/nginx-http2https/
+https://jerry12122.github.io/Deploy/ddns-go/
 https://jerry12122.github.io/Yellow/nothing/
 https://jerry12122.github.io/Introduction/sreintro/
 https://jerry12122.github.io/Deploy/monit/
 https://jerry12122.github.io/Deploy/mmonit/
 https://jerry12122.github.io/Deploy/frpDockerfile/
 https://jerry12122.github.io/Deploy/dockerwebterminal/
-https://jerry12122.github.io/Deploy/ddns-go/
 https://jerry12122.github.io/Tutorial/installscript/
 https://jerry12122.github.io/Tutorial/dockercommand/
 https://jerry12122.github.io/about/index.html
@@ -13,6 +14,7 @@ https://jerry12122.github.io/tags/Docker/
 https://jerry12122.github.io/tags/VPN/
 https://jerry12122.github.io/tags/DevOps/
 https://jerry12122.github.io/tags/Linux/
+https://jerry12122.github.io/tags/nginx/
 https://jerry12122.github.io/categories/Deploy/
 https://jerry12122.github.io/categories/Introduction/
 https://jerry12122.github.io/categories/Tutorial/
