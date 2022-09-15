@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jerry12122.github.io/Introduction/developementmode/</loc>
+    
+    <lastmod>2022-09-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jerry12122.github.io/Tutorial/nginx-http2https/</loc>
     
     <lastmod>2022-09-15</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://jerry12122.github.io/Tutorial/iptables/</loc>
-    
-    <lastmod>2022-09-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Introduction/developementmode/</loc>
     
     <lastmod>2022-09-15</lastmod>
     
