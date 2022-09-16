@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://jerry12122.github.io/Deploy/monit/</loc>
+    <lastmod>2022-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/frpDockerfile/</loc>
+    <lastmod>2022-09-16</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/ddns-go/</loc>
+    <lastmod>2022-09-16</lastmod>
+  </url>
+  <url>
     <loc>https://jerry12122.github.io/Coding/webapimultipartformdataformatter/</loc>
     <lastmod>2022-09-16</lastmod>
   </url>
@@ -33,23 +45,11 @@
     <lastmod>2022-09-15</lastmod>
   </url>
   <url>
-    <loc>https://jerry12122.github.io/Deploy/ddns-go/</loc>
-    <lastmod>2022-09-11</lastmod>
-  </url>
-  <url>
     <loc>https://jerry12122.github.io/Introduction/sreintro/</loc>
     <lastmod>2022-09-11</lastmod>
   </url>
   <url>
-    <loc>https://jerry12122.github.io/Deploy/monit/</loc>
-    <lastmod>2022-09-11</lastmod>
-  </url>
-  <url>
     <loc>https://jerry12122.github.io/Deploy/mmonit/</loc>
-    <lastmod>2022-09-11</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/frpDockerfile/</loc>
     <lastmod>2022-09-11</lastmod>
   </url>
   <url>
