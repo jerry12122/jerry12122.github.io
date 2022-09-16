@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jerry12122.github.io/Coding/nothing/</loc>
+    <loc>https://jerry12122.github.io/Coding/webapimultipartformdataformatter/</loc>
+    
+    <lastmod>2022-09-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/yourls/</loc>
     
     <lastmod>2022-09-16</lastmod>
     
@@ -144,6 +153,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://jerry12122.github.io/tags/docker/</loc>
+    <lastmod>2022-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/Docker/</loc>
