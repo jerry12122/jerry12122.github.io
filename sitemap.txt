@@ -1,6 +1,6 @@
+https://jerry12122.github.io/Deploy/yourls/
 https://jerry12122.github.io/Deploy/acmeautorenew/
 https://jerry12122.github.io/Deploy/ddns-go/
-https://jerry12122.github.io/Deploy/yourls/
 https://jerry12122.github.io/Coding/webapimultipartformdataformatter/
 https://jerry12122.github.io/Deploy/monit/
 https://jerry12122.github.io/Deploy/frpDockerfile/
@@ -19,7 +19,6 @@ https://jerry12122.github.io/
 https://jerry12122.github.io/tags/dotnet/
 https://jerry12122.github.io/tags/Docker/
 https://jerry12122.github.io/tags/Linux/
-https://jerry12122.github.io/tags/docker/
 https://jerry12122.github.io/tags/DevOps/
 https://jerry12122.github.io/tags/VPN/
 https://jerry12122.github.io/tags/linux/
