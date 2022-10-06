@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jerry12122.github.io/Tutorial/jqtoturial/</loc>
+    
+    <lastmod>2022-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jerry12122.github.io/Tutorial/ocituorial/</loc>
     
     <lastmod>2022-10-03</lastmod>
@@ -166,7 +175,7 @@
 
   <url>
     <loc>https://jerry12122.github.io/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -174,273 +183,280 @@
   
   <url>
     <loc>https://jerry12122.github.io/tags/Docker/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/Linux/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/DevOps/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/VPN/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/acme-sh/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/certbot/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/Let%E2%80%99s-Encrypt/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/SSL/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/https/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/Dotnet/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/C/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/ASP-NET/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/DDNS/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/Cloudflare/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/ssh/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/Terminal/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/Proxy/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/Frp/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/NAT/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/Monit/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/SMTP/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/Yourls/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/Scrum/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/Sprint/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/Software-Engineering/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/SRE/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/Google/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/Docker-compose/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/SSR/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/BBR/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/V2ray/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/Firewall/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/iptables/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/Nginx/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/NodeJS/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/Ubuntu/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/Oracle/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/Arm/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/VPS/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/tags/Shell-Script/</loc>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -449,28 +465,28 @@
   
   <url>
     <loc>https://jerry12122.github.io/categories/Coding/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/categories/Deploy/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/categories/Introduction/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jerry12122.github.io/categories/Tutorial/</loc>
-    <lastmod>2022-10-03</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
