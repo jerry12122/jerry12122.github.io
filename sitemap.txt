@@ -61,6 +61,8 @@ https://jerry12122.github.io/tags/Arm/
 https://jerry12122.github.io/tags/VPS/
 https://jerry12122.github.io/tags/Shell-Script/
 https://jerry12122.github.io/tags/git/
+https://jerry12122.github.io/tags/Vim/
+https://jerry12122.github.io/tags/IDE/
 https://jerry12122.github.io/categories/Coding/
 https://jerry12122.github.io/categories/Deploy/
 https://jerry12122.github.io/categories/Introduction/
