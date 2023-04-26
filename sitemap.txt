@@ -70,6 +70,8 @@ https://jerry12122.github.io/tags/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92/
 https://jerry12122.github.io/tags/OpenAI/
 https://jerry12122.github.io/tags/Dockerfile/
 https://jerry12122.github.io/tags/tmux/
+https://jerry12122.github.io/tags/Windows/
+https://jerry12122.github.io/tags/PowerShell/
 https://jerry12122.github.io/categories/Deploy/
 https://jerry12122.github.io/categories/Introduction/
 https://jerry12122.github.io/categories/Tutorial/
