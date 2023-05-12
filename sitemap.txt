@@ -1,3 +1,4 @@
+https://jerry12122.github.io/Deploy/gitlab-arm/
 https://jerry12122.github.io/Tutorial/iishttpredirecthttps/
 https://jerry12122.github.io/Tutorial/UsingPowershellSetDefaultAudioDevice/
 https://jerry12122.github.io/Tutorial/tmux/
@@ -75,6 +76,8 @@ https://jerry12122.github.io/tags/Windows/
 https://jerry12122.github.io/tags/PowerShell/
 https://jerry12122.github.io/tags/IIS/
 https://jerry12122.github.io/tags/https/
+https://jerry12122.github.io/tags/GitLab/
+https://jerry12122.github.io/tags/CI-CD/
 https://jerry12122.github.io/categories/Deploy/
 https://jerry12122.github.io/categories/Introduction/
 https://jerry12122.github.io/categories/Tutorial/
