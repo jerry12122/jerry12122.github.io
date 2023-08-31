@@ -1,5 +1,4 @@
-https://jerry12122.github.io/Tutorial/nodejsinstall/
-https://jerry12122.github.io/Tutorial/nodejs-install/
+https://jerry12122.github.io/Tutorial/nodejsinstall/nodejsinstall/
 https://jerry12122.github.io/Deploy/gitlab-arm/
 https://jerry12122.github.io/Tutorial/iishttpredirecthttps/
 https://jerry12122.github.io/Tutorial/UsingPowershellSetDefaultAudioDevice/
