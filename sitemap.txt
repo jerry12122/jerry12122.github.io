@@ -1,3 +1,5 @@
+https://jerry12122.github.io/Tutorial/nodejsinstall/
+https://jerry12122.github.io/Tutorial/nodejs-install/
 https://jerry12122.github.io/Deploy/gitlab-arm/
 https://jerry12122.github.io/Tutorial/iishttpredirecthttps/
 https://jerry12122.github.io/Tutorial/UsingPowershellSetDefaultAudioDevice/
@@ -11,7 +13,6 @@ https://jerry12122.github.io/Tutorial/gitssl/
 https://jerry12122.github.io/Tutorial/jqtoturial/
 https://jerry12122.github.io/Deploy/frpDockerfile/
 https://jerry12122.github.io/Tutorial/ocituorial/
-https://jerry12122.github.io/Tutorial/nodejsinstall/
 https://jerry12122.github.io/Tutorial/nginx-http2https/
 https://jerry12122.github.io/Tutorial/iptables/
 https://jerry12122.github.io/Tutorial/installscript/
