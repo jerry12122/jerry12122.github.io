@@ -2,132 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jerry12122.github.io/Coding/firstdockerfile/</loc>
-    
-    <lastmod>2023-12-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Coding/webapimultipartformdataformatter/</loc>
-    
-    <lastmod>2023-12-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/acme/</loc>
-    
-    <lastmod>2023-12-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/ddns-go/</loc>
-    
-    <lastmod>2023-12-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/frpDockerfile/</loc>
-    
-    <lastmod>2023-12-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/dockerwebterminal/</loc>
-    
-    <lastmod>2023-12-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/gitlab-arm/</loc>
-    
-    <lastmod>2023-12-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/mmonit/</loc>
-    
-    <lastmod>2023-12-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/monit/</loc>
-    
-    <lastmod>2023-12-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/yourls/</loc>
-    
-    <lastmod>2023-12-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Introduction/chatgpt/</loc>
-    
-    <lastmod>2023-12-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Introduction/developementmode/</loc>
-    
-    <lastmod>2023-12-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Introduction/sreintro/</loc>
-    
-    <lastmod>2023-12-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Tutorial/UsingPowershellSetDefaultAudioDevice/</loc>
-    
-    <lastmod>2023-12-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://jerry12122.github.io/Tutorial/dockercommand/</loc>
     
     <lastmod>2023-12-13</lastmod>
@@ -227,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://jerry12122.github.io/Tutorial/vimpaste/</loc>
+    <loc>https://jerry12122.github.io/Tutorial/tmux/</loc>
     
     <lastmod>2023-12-13</lastmod>
     
@@ -236,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://jerry12122.github.io/Tutorial/tmux/</loc>
+    <loc>https://jerry12122.github.io/Tutorial/vimpaste/</loc>
     
     <lastmod>2023-12-13</lastmod>
     
@@ -255,6 +129,132 @@
   
   <url>
     <loc>https://jerry12122.github.io/about/index.html</loc>
+    
+    <lastmod>2023-12-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Coding/firstdockerfile/</loc>
+    
+    <lastmod>2023-12-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Coding/webapimultipartformdataformatter/</loc>
+    
+    <lastmod>2023-12-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/acme/</loc>
+    
+    <lastmod>2023-12-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/ddns-go/</loc>
+    
+    <lastmod>2023-12-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/dockerwebterminal/</loc>
+    
+    <lastmod>2023-12-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/frpDockerfile/</loc>
+    
+    <lastmod>2023-12-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/gitlab-arm/</loc>
+    
+    <lastmod>2023-12-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/mmonit/</loc>
+    
+    <lastmod>2023-12-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/monit/</loc>
+    
+    <lastmod>2023-12-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/yourls/</loc>
+    
+    <lastmod>2023-12-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Introduction/chatgpt/</loc>
+    
+    <lastmod>2023-12-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Introduction/developementmode/</loc>
+    
+    <lastmod>2023-12-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Introduction/sreintro/</loc>
+    
+    <lastmod>2023-12-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Tutorial/UsingPowershellSetDefaultAudioDevice/</loc>
     
     <lastmod>2023-12-13</lastmod>
     
@@ -349,27 +349,6 @@
   </url>
   
   <url>
-    <loc>https://jerry12122.github.io/tags/Proxy/</loc>
-    <lastmod>2023-12-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/tags/Frp/</loc>
-    <lastmod>2023-12-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/tags/NAT/</loc>
-    <lastmod>2023-12-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://jerry12122.github.io/tags/ssh/</loc>
     <lastmod>2023-12-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -385,6 +364,27 @@
   
   <url>
     <loc>https://jerry12122.github.io/tags/Linux/</loc>
+    <lastmod>2023-12-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/tags/Proxy/</loc>
+    <lastmod>2023-12-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/tags/Frp/</loc>
+    <lastmod>2023-12-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/tags/NAT/</loc>
     <lastmod>2023-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -629,6 +629,13 @@
   </url>
   
   <url>
+    <loc>https://jerry12122.github.io/tags/tmux/</loc>
+    <lastmod>2023-12-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://jerry12122.github.io/tags/Vim/</loc>
     <lastmod>2023-12-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -637,13 +644,6 @@
   
   <url>
     <loc>https://jerry12122.github.io/tags/IDE/</loc>
-    <lastmod>2023-12-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/tags/tmux/</loc>
     <lastmod>2023-12-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
