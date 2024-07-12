@@ -2,105 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jerry12122.github.io/Coding/samberlo/</loc>
-    
-    <lastmod>2024-07-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Coding/webapimultipartformdataformatter/</loc>
-    
-    <lastmod>2024-07-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/acme/</loc>
-    
-    <lastmod>2024-07-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/ddns-go/</loc>
-    
-    <lastmod>2024-07-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/dockerwebterminal/</loc>
-    
-    <lastmod>2024-07-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/frpDockerfile/</loc>
-    
-    <lastmod>2024-07-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/gitlab-arm/</loc>
-    
-    <lastmod>2024-07-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/mmonit/</loc>
-    
-    <lastmod>2024-07-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/monit/</loc>
-    
-    <lastmod>2024-07-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/yourls/</loc>
-    
-    <lastmod>2024-07-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Introduction/chatgpt/</loc>
-    
-    <lastmod>2024-07-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://jerry12122.github.io/Introduction/developementmode/</loc>
     
     <lastmod>2024-07-12</lastmod>
@@ -182,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://jerry12122.github.io/Tutorial/nginx-http2https/</loc>
+    <loc>https://jerry12122.github.io/Tutorial/jqtoturial/</loc>
     
     <lastmod>2024-07-12</lastmod>
     
@@ -191,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://jerry12122.github.io/Tutorial/jqtoturial/</loc>
+    <loc>https://jerry12122.github.io/Tutorial/nginx-http2https/</loc>
     
     <lastmod>2024-07-12</lastmod>
     
@@ -291,6 +192,105 @@
   
   <url>
     <loc>https://jerry12122.github.io/Coding/httpdevicemac/</loc>
+    
+    <lastmod>2024-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Coding/samberlo/</loc>
+    
+    <lastmod>2024-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Coding/webapimultipartformdataformatter/</loc>
+    
+    <lastmod>2024-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/acme/</loc>
+    
+    <lastmod>2024-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/ddns-go/</loc>
+    
+    <lastmod>2024-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/dockerwebterminal/</loc>
+    
+    <lastmod>2024-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/frpDockerfile/</loc>
+    
+    <lastmod>2024-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/gitlab-arm/</loc>
+    
+    <lastmod>2024-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/mmonit/</loc>
+    
+    <lastmod>2024-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/monit/</loc>
+    
+    <lastmod>2024-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/yourls/</loc>
+    
+    <lastmod>2024-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Introduction/chatgpt/</loc>
     
     <lastmod>2024-07-12</lastmod>
     
@@ -644,14 +644,14 @@
   </url>
   
   <url>
-    <loc>https://jerry12122.github.io/tags/Nginx/</loc>
+    <loc>https://jerry12122.github.io/tags/Shell-Script/</loc>
     <lastmod>2024-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://jerry12122.github.io/tags/Shell-Script/</loc>
+    <loc>https://jerry12122.github.io/tags/Nginx/</loc>
     <lastmod>2024-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
