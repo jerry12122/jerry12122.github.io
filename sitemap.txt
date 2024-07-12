@@ -1,3 +1,4 @@
+https://jerry12122.github.io/Introduction/chatgpt/
 https://jerry12122.github.io/Introduction/developementmode/
 https://jerry12122.github.io/Introduction/sreintro/
 https://jerry12122.github.io/Tutorial/UsingPowershellSetDefaultAudioDevice/
@@ -16,6 +17,7 @@ https://jerry12122.github.io/Tutorial/tmux/
 https://jerry12122.github.io/Tutorial/vimpaste/
 https://jerry12122.github.io/Tutorial/nodejsinstall/nodejsinstall/
 https://jerry12122.github.io/about/index.html
+https://jerry12122.github.io/Coding/cobra/
 https://jerry12122.github.io/Coding/firstdockerfile/
 https://jerry12122.github.io/Coding/googlewire/
 https://jerry12122.github.io/Coding/samberlo/
@@ -28,12 +30,13 @@ https://jerry12122.github.io/Deploy/gitlab-arm/
 https://jerry12122.github.io/Deploy/mmonit/
 https://jerry12122.github.io/Deploy/monit/
 https://jerry12122.github.io/Deploy/yourls/
-https://jerry12122.github.io/Introduction/chatgpt/
 https://jerry12122.github.io/
+https://jerry12122.github.io/tags/Golang/
+https://jerry12122.github.io/tags/Commander/
+https://jerry12122.github.io/tags/CLI/
 https://jerry12122.github.io/tags/Docker/
 https://jerry12122.github.io/tags/Dockerfile/
 https://jerry12122.github.io/tags/DevOps/
-https://jerry12122.github.io/tags/Golang/
 https://jerry12122.github.io/tags/Dependency-Injection/
 https://jerry12122.github.io/tags/Functional-Programming/
 https://jerry12122.github.io/tags/Dotnet/

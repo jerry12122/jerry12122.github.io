@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jerry12122.github.io/Introduction/chatgpt/</loc>
+    
+    <lastmod>2024-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jerry12122.github.io/Introduction/developementmode/</loc>
     
     <lastmod>2024-07-12</lastmod>
@@ -164,6 +173,15 @@
   </url>
   
   <url>
+    <loc>https://jerry12122.github.io/Coding/cobra/</loc>
+    
+    <lastmod>2024-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://jerry12122.github.io/Coding/firstdockerfile/</loc>
     
     <lastmod>2024-07-12</lastmod>
@@ -271,15 +289,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://jerry12122.github.io/Introduction/chatgpt/</loc>
-    
-    <lastmod>2024-07-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://jerry12122.github.io/</loc>
@@ -288,6 +297,27 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://jerry12122.github.io/tags/Golang/</loc>
+    <lastmod>2024-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/tags/Commander/</loc>
+    <lastmod>2024-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/tags/CLI/</loc>
+    <lastmod>2024-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://jerry12122.github.io/tags/Docker/</loc>
@@ -305,13 +335,6 @@
   
   <url>
     <loc>https://jerry12122.github.io/tags/DevOps/</loc>
-    <lastmod>2024-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/tags/Golang/</loc>
     <lastmod>2024-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
