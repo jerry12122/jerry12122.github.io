@@ -1,54 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jerry12122.github.io/Coding/firstdockerfile/</loc>
-    <lastmod>2024-07-12</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Coding/googlewire/</loc>
-    <lastmod>2024-07-12</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Coding/webapimultipartformdataformatter/</loc>
-    <lastmod>2024-07-12</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/acme/</loc>
-    <lastmod>2024-07-12</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/ddns-go/</loc>
-    <lastmod>2024-07-12</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/dockerwebterminal/</loc>
-    <lastmod>2024-07-12</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/frpDockerfile/</loc>
-    <lastmod>2024-07-12</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/gitlab-arm/</loc>
-    <lastmod>2024-07-12</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/mmonit/</loc>
-    <lastmod>2024-07-12</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/monit/</loc>
-    <lastmod>2024-07-12</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/yourls/</loc>
-    <lastmod>2024-07-12</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Introduction/chatgpt/</loc>
-    <lastmod>2024-07-12</lastmod>
-  </url>
-  <url>
     <loc>https://jerry12122.github.io/Introduction/developementmode/</loc>
     <lastmod>2024-07-12</lastmod>
   </url>
@@ -114,6 +66,58 @@
   </url>
   <url>
     <loc>https://jerry12122.github.io/Tutorial/nodejsinstall/nodejsinstall/</loc>
+    <lastmod>2024-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Coding/firstdockerfile/</loc>
+    <lastmod>2024-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Coding/googlewire/</loc>
+    <lastmod>2024-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Coding/samberlo/</loc>
+    <lastmod>2024-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Coding/webapimultipartformdataformatter/</loc>
+    <lastmod>2024-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/acme/</loc>
+    <lastmod>2024-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/ddns-go/</loc>
+    <lastmod>2024-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/dockerwebterminal/</loc>
+    <lastmod>2024-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/frpDockerfile/</loc>
+    <lastmod>2024-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/gitlab-arm/</loc>
+    <lastmod>2024-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/mmonit/</loc>
+    <lastmod>2024-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/monit/</loc>
+    <lastmod>2024-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/yourls/</loc>
+    <lastmod>2024-07-12</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Introduction/chatgpt/</loc>
     <lastmod>2024-07-12</lastmod>
   </url>
 </urlset> 
