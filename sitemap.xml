@@ -137,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://jerry12122.github.io/Introduction/developementmode/</loc>
+    <loc>https://jerry12122.github.io/Introduction/chatgpt/</loc>
     
     <lastmod>2024-07-31</lastmod>
     
@@ -146,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://jerry12122.github.io/Introduction/chatgpt/</loc>
+    <loc>https://jerry12122.github.io/Introduction/developementmode/</loc>
     
     <lastmod>2024-07-31</lastmod>
     
@@ -522,27 +522,6 @@
   </url>
   
   <url>
-    <loc>https://jerry12122.github.io/tags/Scrum/</loc>
-    <lastmod>2024-07-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/tags/Sprint/</loc>
-    <lastmod>2024-07-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/tags/Software-Engineering/</loc>
-    <lastmod>2024-07-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://jerry12122.github.io/tags/AI/</loc>
     <lastmod>2024-07-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -558,6 +537,27 @@
   
   <url>
     <loc>https://jerry12122.github.io/tags/OpenAI/</loc>
+    <lastmod>2024-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/tags/Scrum/</loc>
+    <lastmod>2024-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/tags/Sprint/</loc>
+    <lastmod>2024-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/tags/Software-Engineering/</loc>
     <lastmod>2024-07-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
