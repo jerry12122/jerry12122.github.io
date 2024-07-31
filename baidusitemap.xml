@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jerry12122.github.io/Tutorial/office365install/</loc>
-    <lastmod>2024-07-31</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Tutorial/tmux/</loc>
-    <lastmod>2024-07-31</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Tutorial/vimpaste/</loc>
-    <lastmod>2024-07-31</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Tutorial/nodejsinstall/nodejsinstall/</loc>
-    <lastmod>2024-07-31</lastmod>
-  </url>
-  <url>
     <loc>https://jerry12122.github.io/Coding/cobra/</loc>
     <lastmod>2024-07-31</lastmod>
   </url>
@@ -134,6 +118,22 @@
   </url>
   <url>
     <loc>https://jerry12122.github.io/Tutorial/ocituorial/</loc>
+    <lastmod>2024-07-31</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Tutorial/office365install/</loc>
+    <lastmod>2024-07-31</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Tutorial/tmux/</loc>
+    <lastmod>2024-07-31</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Tutorial/vimpaste/</loc>
+    <lastmod>2024-07-31</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Tutorial/nodejsinstall/nodejsinstall/</loc>
     <lastmod>2024-07-31</lastmod>
   </url>
 </urlset> 
