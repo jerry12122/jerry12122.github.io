@@ -13,8 +13,8 @@ https://jerry12122.github.io/Deploy/gitlab-arm/
 https://jerry12122.github.io/Deploy/mmonit/
 https://jerry12122.github.io/Deploy/monit/
 https://jerry12122.github.io/Deploy/yourls/
-https://jerry12122.github.io/Introduction/chatgpt/
 https://jerry12122.github.io/Introduction/developementmode/
+https://jerry12122.github.io/Introduction/chatgpt/
 https://jerry12122.github.io/Introduction/sreintro/
 https://jerry12122.github.io/Tutorial/UsingPowershellSetDefaultAudioDevice/
 https://jerry12122.github.io/Tutorial/dockercommand/
@@ -62,12 +62,12 @@ https://jerry12122.github.io/tags/CI-CD/
 https://jerry12122.github.io/tags/Monit/
 https://jerry12122.github.io/tags/SMTP/
 https://jerry12122.github.io/tags/Yourls/
-https://jerry12122.github.io/tags/AI/
-https://jerry12122.github.io/tags/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92/
-https://jerry12122.github.io/tags/OpenAI/
 https://jerry12122.github.io/tags/Scrum/
 https://jerry12122.github.io/tags/Sprint/
 https://jerry12122.github.io/tags/Software-Engineering/
+https://jerry12122.github.io/tags/AI/
+https://jerry12122.github.io/tags/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92/
+https://jerry12122.github.io/tags/OpenAI/
 https://jerry12122.github.io/tags/SRE/
 https://jerry12122.github.io/tags/Google/
 https://jerry12122.github.io/tags/Windows/
