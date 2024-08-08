@@ -1,4 +1,3 @@
-https://jerry12122.github.io/Tutorial/UsingPowershellSetDefaultAudioDevice/
 https://jerry12122.github.io/Tutorial/dockercommand/
 https://jerry12122.github.io/Tutorial/dockerinstall/
 https://jerry12122.github.io/Tutorial/gitssl/
@@ -34,6 +33,7 @@ https://jerry12122.github.io/Deploy/yourls/
 https://jerry12122.github.io/Introduction/chatgpt/
 https://jerry12122.github.io/Introduction/developementmode/
 https://jerry12122.github.io/Introduction/sreintro/
+https://jerry12122.github.io/Tutorial/UsingPowershellSetDefaultAudioDevice/
 https://jerry12122.github.io/
 https://jerry12122.github.io/tags/Golang/
 https://jerry12122.github.io/tags/Commander/
