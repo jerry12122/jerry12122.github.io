@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jerry12122.github.io/Tutorial/gitssl/</loc>
-    <lastmod>2025-12-16</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Tutorial/iishttpredirecthttps/</loc>
-    <lastmod>2025-12-16</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Tutorial/installscript/</loc>
-    <lastmod>2025-12-16</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Tutorial/iptables/</loc>
-    <lastmod>2025-12-16</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Tutorial/jqtoturial/</loc>
-    <lastmod>2025-12-16</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Tutorial/nginx-http2https/</loc>
-    <lastmod>2025-12-16</lastmod>
-  </url>
-  <url>
     <loc>https://jerry12122.github.io/Tutorial/nvm-install/</loc>
     <lastmod>2025-12-16</lastmod>
   </url>
@@ -53,23 +29,7 @@
     <lastmod>2025-12-16</lastmod>
   </url>
   <url>
-    <loc>https://jerry12122.github.io/Deploy/mmonit/</loc>
-    <lastmod>2025-12-16</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/monit/</loc>
-    <lastmod>2025-12-16</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/yourls/</loc>
-    <lastmod>2025-12-16</lastmod>
-  </url>
-  <url>
     <loc>https://jerry12122.github.io/Introduction/developementmode/</loc>
-    <lastmod>2025-12-16</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Introduction/chatgpt/</loc>
     <lastmod>2025-12-16</lastmod>
   </url>
   <url>
@@ -77,11 +37,11 @@
     <lastmod>2025-12-16</lastmod>
   </url>
   <url>
-    <loc>https://jerry12122.github.io/Tutorial/UsingPowershellSetDefaultAudioDevice/</loc>
+    <loc>https://jerry12122.github.io/Tutorial/dockercommand/</loc>
     <lastmod>2025-12-16</lastmod>
   </url>
   <url>
-    <loc>https://jerry12122.github.io/Tutorial/dockercommand/</loc>
+    <loc>https://jerry12122.github.io/Tutorial/UsingPowershellSetDefaultAudioDevice/</loc>
     <lastmod>2025-12-16</lastmod>
   </url>
   <url>
@@ -89,7 +49,27 @@
     <lastmod>2025-12-16</lastmod>
   </url>
   <url>
-    <loc>https://jerry12122.github.io/Coding/cobra/</loc>
+    <loc>https://jerry12122.github.io/Tutorial/gitssl/</loc>
+    <lastmod>2025-12-16</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Tutorial/iishttpredirecthttps/</loc>
+    <lastmod>2025-12-16</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Tutorial/installscript/</loc>
+    <lastmod>2025-12-16</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Tutorial/iptables/</loc>
+    <lastmod>2025-12-16</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Tutorial/jqtoturial/</loc>
+    <lastmod>2025-12-16</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Tutorial/nginx-http2https/</loc>
     <lastmod>2025-12-16</lastmod>
   </url>
   <url>
@@ -142,6 +122,26 @@
   </url>
   <url>
     <loc>https://jerry12122.github.io/Deploy/gitlab-arm/</loc>
+    <lastmod>2025-12-16</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/mmonit/</loc>
+    <lastmod>2025-12-16</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/monit/</loc>
+    <lastmod>2025-12-16</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/yourls/</loc>
+    <lastmod>2025-12-16</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Introduction/chatgpt/</loc>
+    <lastmod>2025-12-16</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Coding/cobra/</loc>
     <lastmod>2025-12-16</lastmod>
   </url>
 </urlset> 

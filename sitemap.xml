@@ -2,60 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jerry12122.github.io/Tutorial/gitssl/</loc>
-    
-    <lastmod>2025-12-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Tutorial/iishttpredirecthttps/</loc>
-    
-    <lastmod>2025-12-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Tutorial/installscript/</loc>
-    
-    <lastmod>2025-12-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Tutorial/iptables/</loc>
-    
-    <lastmod>2025-12-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Tutorial/jqtoturial/</loc>
-    
-    <lastmod>2025-12-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Tutorial/nginx-http2https/</loc>
-    
-    <lastmod>2025-12-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://jerry12122.github.io/Tutorial/nvm-install/</loc>
     
     <lastmod>2025-12-16</lastmod>
@@ -128,43 +74,7 @@
   </url>
   
   <url>
-    <loc>https://jerry12122.github.io/Deploy/mmonit/</loc>
-    
-    <lastmod>2025-12-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/monit/</loc>
-    
-    <lastmod>2025-12-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Deploy/yourls/</loc>
-    
-    <lastmod>2025-12-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://jerry12122.github.io/Introduction/developementmode/</loc>
-    
-    <lastmod>2025-12-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/Introduction/chatgpt/</loc>
     
     <lastmod>2025-12-16</lastmod>
     
@@ -182,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://jerry12122.github.io/Tutorial/UsingPowershellSetDefaultAudioDevice/</loc>
+    <loc>https://jerry12122.github.io/Tutorial/dockercommand/</loc>
     
     <lastmod>2025-12-16</lastmod>
     
@@ -191,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://jerry12122.github.io/Tutorial/dockercommand/</loc>
+    <loc>https://jerry12122.github.io/Tutorial/UsingPowershellSetDefaultAudioDevice/</loc>
     
     <lastmod>2025-12-16</lastmod>
     
@@ -209,7 +119,52 @@
   </url>
   
   <url>
-    <loc>https://jerry12122.github.io/Coding/cobra/</loc>
+    <loc>https://jerry12122.github.io/Tutorial/gitssl/</loc>
+    
+    <lastmod>2025-12-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Tutorial/iishttpredirecthttps/</loc>
+    
+    <lastmod>2025-12-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Tutorial/installscript/</loc>
+    
+    <lastmod>2025-12-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Tutorial/iptables/</loc>
+    
+    <lastmod>2025-12-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Tutorial/jqtoturial/</loc>
+    
+    <lastmod>2025-12-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Tutorial/nginx-http2https/</loc>
     
     <lastmod>2025-12-16</lastmod>
     
@@ -334,6 +289,51 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/mmonit/</loc>
+    
+    <lastmod>2025-12-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/monit/</loc>
+    
+    <lastmod>2025-12-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Deploy/yourls/</loc>
+    
+    <lastmod>2025-12-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Introduction/chatgpt/</loc>
+    
+    <lastmod>2025-12-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/Coding/cobra/</loc>
+    
+    <lastmod>2025-12-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>https://jerry12122.github.io/</loc>
@@ -380,6 +380,20 @@
   
   <url>
     <loc>https://jerry12122.github.io/tags/DevOps/</loc>
+    <lastmod>2025-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/tags/Go/</loc>
+    <lastmod>2025-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/tags/PostgreSQL/</loc>
     <lastmod>2025-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -547,27 +561,6 @@
   </url>
   
   <url>
-    <loc>https://jerry12122.github.io/tags/Scrum/</loc>
-    <lastmod>2025-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/tags/Sprint/</loc>
-    <lastmod>2025-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://jerry12122.github.io/tags/Software-Engineering/</loc>
-    <lastmod>2025-12-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://jerry12122.github.io/tags/AI/</loc>
     <lastmod>2025-12-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -583,6 +576,27 @@
   
   <url>
     <loc>https://jerry12122.github.io/tags/OpenAI/</loc>
+    <lastmod>2025-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/tags/Scrum/</loc>
+    <lastmod>2025-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/tags/Sprint/</loc>
+    <lastmod>2025-12-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jerry12122.github.io/tags/Software-Engineering/</loc>
     <lastmod>2025-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
