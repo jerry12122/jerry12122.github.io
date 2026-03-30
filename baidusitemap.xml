@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jerry12122.github.io/Tutorial/nginx-http2https/</loc>
-    <lastmod>2026-03-30</lastmod>
-  </url>
-  <url>
     <loc>https://jerry12122.github.io/Tutorial/nvm-install/</loc>
     <lastmod>2026-03-30</lastmod>
   </url>
@@ -21,11 +17,11 @@
     <lastmod>2026-03-30</lastmod>
   </url>
   <url>
-    <loc>https://jerry12122.github.io/Tutorial/tmux/</loc>
+    <loc>https://jerry12122.github.io/Tutorial/ssh-socks5-proxy/</loc>
     <lastmod>2026-03-30</lastmod>
   </url>
   <url>
-    <loc>https://jerry12122.github.io/Tutorial/ssh-socks5-proxy/</loc>
+    <loc>https://jerry12122.github.io/Tutorial/tmux/</loc>
     <lastmod>2026-03-30</lastmod>
   </url>
   <url>
@@ -37,23 +33,15 @@
     <lastmod>2026-03-30</lastmod>
   </url>
   <url>
-    <loc>https://jerry12122.github.io/Tutorial/nodejsinstall/nodejsinstall/</loc>
-    <lastmod>2026-03-30</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Tutorial/UsingPowershellSetDefaultAudioDevice/</loc>
-    <lastmod>2026-03-30</lastmod>
-  </url>
-  <url>
     <loc>https://jerry12122.github.io/Tutorial/dockercommand/</loc>
     <lastmod>2026-03-30</lastmod>
   </url>
   <url>
-    <loc>https://jerry12122.github.io/Tutorial/gitssl/</loc>
+    <loc>https://jerry12122.github.io/Tutorial/dockerinstall/</loc>
     <lastmod>2026-03-30</lastmod>
   </url>
   <url>
-    <loc>https://jerry12122.github.io/Tutorial/dockerinstall/</loc>
+    <loc>https://jerry12122.github.io/Tutorial/gitssl/</loc>
     <lastmod>2026-03-30</lastmod>
   </url>
   <url>
@@ -77,11 +65,27 @@
     <lastmod>2026-03-30</lastmod>
   </url>
   <url>
-    <loc>https://jerry12122.github.io/Introduction/developementmode/</loc>
+    <loc>https://jerry12122.github.io/Tutorial/nginx-http2https/</loc>
+    <lastmod>2026-03-30</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Tutorial/nodejsinstall/nodejsinstall/</loc>
     <lastmod>2026-03-30</lastmod>
   </url>
   <url>
     <loc>https://jerry12122.github.io/Introduction/sreintro/</loc>
+    <lastmod>2026-03-30</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Tutorial/UsingPowershellSetDefaultAudioDevice/</loc>
+    <lastmod>2026-03-30</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Introduction/chatgpt/</loc>
+    <lastmod>2026-03-30</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Introduction/developementmode/</loc>
     <lastmod>2026-03-30</lastmod>
   </url>
   <url>
@@ -113,7 +117,15 @@
     <lastmod>2026-03-30</lastmod>
   </url>
   <url>
-    <loc>https://jerry12122.github.io/Introduction/chatgpt/</loc>
+    <loc>https://jerry12122.github.io/Coding/firstdockerfile/</loc>
+    <lastmod>2026-03-30</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Coding/go-whitelist/</loc>
+    <lastmod>2026-03-30</lastmod>
+  </url>
+  <url>
+    <loc>https://jerry12122.github.io/Coding/googlewire/</loc>
     <lastmod>2026-03-30</lastmod>
   </url>
   <url>
@@ -142,18 +154,6 @@
   </url>
   <url>
     <loc>https://jerry12122.github.io/Coding/cobra/</loc>
-    <lastmod>2026-03-30</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Coding/firstdockerfile/</loc>
-    <lastmod>2026-03-30</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Coding/go-whitelist/</loc>
-    <lastmod>2026-03-30</lastmod>
-  </url>
-  <url>
-    <loc>https://jerry12122.github.io/Coding/googlewire/</loc>
     <lastmod>2026-03-30</lastmod>
   </url>
 </urlset> 
